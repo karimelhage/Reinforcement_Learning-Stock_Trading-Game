@@ -10,3 +10,4 @@ def get_scalar(input_array):
         return 10 ** int("{:.2e}".format(input).split("e")[-1])
 
     return np.vectorize(find_scalar, otypes=[float])(input_array)
+
