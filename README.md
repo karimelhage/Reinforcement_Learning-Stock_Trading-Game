@@ -1,8 +1,8 @@
-# Constructing a Stock Trading Game Environment and Implementing a Reinforcement Learning Agent to Maximize Returns
+# Constructing a Stock Trading Game Environment and Implementing a Reinforcement Learning Agent to Maximize Returns - Under Build
 
 **Note: (This repository is still under construction and the findings are by no means final)**
 
-Welcome to Stock Street! An interactive gaming environment allowing the simulation of stock trading. 
+Welcome to Stock Street! An interactive gaming environment allowing the simulation of stock trading. The current simulation to show the current progress in environment building and mainly to show capabilities of the environment and hence should not be used for testing agents at this stage.
 
 ## Current Issues and Tasks to progress
 
